@@ -1,5 +1,5 @@
 # Luha
- L'objectif <a href="https://luha.alwaysdata.net">du projet luha</a> est de fournir un traducteur collaboratif et évolutif du Shimaoré.<br>
+ L'objectif <a href="https://luha.alwaysdata.net" target="_blank">du projet luha</a> est de fournir un traducteur collaboratif et évolutif du Shimaoré.<br>
 				Avec l'api luha utiliser gratuitement les données qui sont disponible sur le projet luha dans vos projets.
         
 ## Traduction français vers shimaore 
